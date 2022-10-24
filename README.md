@@ -1,2 +1,5 @@
-# Pendu-JS
-Jeu du pendu en JS/HTML/CSS
+# Pendu JS
+____
+Jeu du Pendu en JS / HTML / CSS 
+
+*Kakoo*
