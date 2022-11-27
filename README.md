@@ -6,7 +6,7 @@ Jeu du Pendu en :
 - HTML
 - CSS
 
-## [Play](https://KakooES.github.io/Pendu-JS/)
+## [Play](https://Kakoo28.github.io/Pendu-JS/)
 ___
 
 *Kakoo*
